@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9359'
     url: http://www.gutenberg.org/2009/agents/9359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20526#Short-Story-WritingA-Practical-Treatise-on-the-Art-of-The-Short-Story
 gutenberg_issued: '2007-02-06'
 gutenberg_type: Text
 identifiers:
